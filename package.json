@@ -1,0 +1,26 @@
+{
+  "name": "my-e2e-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node start.js",
+    "e2e": "jest"
+  },
+  "author": "zzzmisa",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "jest-puppeteer": "^6.1.0",
+    "puppeteer": "^13.5.1"
+  },
+  "jest": {
+    "preset": "jest-puppeteer",
+    "testMatch": [
+      "/**/*.e2e.js"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true,
+    "printWidth": 120
+  }
+}
