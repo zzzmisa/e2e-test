@@ -1,9 +1,15 @@
 const urls = [
   'https://blog.zzzmisa.com/',
+  'https://blog.zzzmisa.com/about/',
+  'https://blog.zzzmisa.com/amp/about/',
   'https://curryjack.zzzmisa.com/',
+  'https://curryjack.zzzmisa.com/en/#/',
   'https://featured-image-maker.zzzmisa.com/',
+  'https://featured-image-maker.zzzmisa.com/en/',
   'https://japan-github-ranking.zzzmisa.com/',
   'https://odekake.zzzmisa.com/',
+  'https://odekake.zzzmisa.com/about/',
+  'https://odekake.zzzmisa.com/amp/about/',
   'https://zzzmisa.com/',
 ];
 
