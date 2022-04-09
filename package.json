@@ -1,10 +1,9 @@
 {
   "name": "my-e2e-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "E2E tests for my sites",
   "main": "main.js",
   "scripts": {
-    "start": "node start.js",
     "e2e": "jest"
   },
   "author": "zzzmisa",
